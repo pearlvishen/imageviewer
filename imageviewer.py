@@ -1,5 +1,14 @@
-
-
+# ###################################################################################################
+#Image Viewer
+# Pearl Vishen
+# 3/5/2021
+#
+#Description: This is an Image Viewer using Tkinter and python.
+#Inputs: pressing the buttons
+#Outputs: Images
+#
+#Dependencies: Tkinter Button and PhotoImage functions
+############################################################################################
 
 from tkinter import *
 from PIL import ImageTk, Image
